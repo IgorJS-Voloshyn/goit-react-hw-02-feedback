@@ -1,0 +1,18 @@
+.list__statistics{
+    list-style: none;
+    display: flex;
+    gap: 10px;
+    flex-direction: column;
+}
+
+.list__item__good{
+    color: #DAF7A6;
+}
+
+.list__item__neutral{
+    color: #FFC300;
+}
+
+.list__item__bad{
+    color: #FF5733;
+}
